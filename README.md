@@ -2,11 +2,23 @@
 <br>
 <br>
 <p>
-Este código genera elementos HTML que muestran fotos en una página web. Utiliza dos maneras diferentes para agregar elementos a un contenedor de fotos en el archivo HTML. La primera manera utiliza la función getPhotoElement para generar dos elementos de foto y agregarlos al contenedor de fotos. La segunda manera utiliza un bucle for para generar siete elementos de foto y agregarlos al contenedor de fotos.
+Este código genera dinámicamente elementos HTML que muestran fotos en una página web. Utiliza dos maneras diferentes para agregar elementos a un contenedor de fotos en el archivo HTML:
+
+1. La primera manera utiliza la función getPhotoElement para generar dos elementos de foto y agregarlos al contenedor de fotos.
+
+2. La segunda manera utiliza un bucle for para generar siete elementos de foto y agregarlos al contenedor de fotos.
 
 <h2>Requisitos previos</h2>
-Un navegador web moderno como Google Chrome o Firefox.
-El código fuente de este proyecto.
-Instrucciones de instalación
-Clona el repositorio o descarga el código fuente en una carpeta local.
-Abre el archivo HTML en tu navegador web.</p>
+<br>
+<ul>
+<li></li>Un navegador web moderno como Google Chrome o Firefox.</li>
+
+<li>El código fuente de este proyecto.</li>
+
+<li>Instrucciones de instalación</li>
+
+<li>Clona el repositorio o descarga el código fuente en una carpeta local.</li>
+
+<li>Abre el archivo HTML en tu navegador web.</li>
+</p>
+</ul>
