@@ -1,6 +1,5 @@
 # Proyecto Generación de Imagenes con Javascript
 
-
 <br>
 
 Este código genera dinámicamente elementos HTML que muestran fotos en una página web. Utiliza dos maneras diferentes para agregar elementos a un contenedor de fotos en el archivo HTML:
@@ -15,7 +14,7 @@ Este código genera dinámicamente elementos HTML que muestran fotos en una pág
 
 <br>
 
-![Website banner!](assets/img/readme.png)
+![Website banner!](img/readme.png)
 
 <br>
 
