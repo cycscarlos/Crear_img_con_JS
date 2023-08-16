@@ -18,7 +18,7 @@ Este código genera dinámicamente elementos HTML que muestran fotos en una pág
 
 <br>
 
-Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Crear_Img_con_JS):
+Take a look at the website at the following link [Github Pages] (https://cycscarlos.github.io/Crear_img_con_JS):
 
 <br>
 
